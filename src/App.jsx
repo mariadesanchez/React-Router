@@ -3,7 +3,7 @@ import { Route, Routes } from 'react-router-dom'
 import Home from './Home'
 import Contacto from './Contacto'
 import Beer from './Beer'
-import PageNotFound from './PagesNotFound'
+import PageNotFound from './PageNotFound'
 import { routes } from './utils/routes'
 
 
